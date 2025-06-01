@@ -26,10 +26,10 @@ Welcome to AI Video Summarizer — a functional, lightweight project designed to
 
 Below are screenshots demonstrating the app in action:
 
-![Demo Image](https://github.com/udaycodespace/yt_summarizer/blob/master/screenshot1.png)
+![Demo Image](https://github.com/udaycodespace/yt_summarizer/blob/main/screenshot1.png)
 
 
-![Screenshot 1](https://github.com/udaycodespace/yt_summarizer/blob/master/demo_image.png)
+![Screenshot 1](https://github.com/udaycodespace/yt_summarizer/blob/main/demo_image.png)
 
 ---
 
